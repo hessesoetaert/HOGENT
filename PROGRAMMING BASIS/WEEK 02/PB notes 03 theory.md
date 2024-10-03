@@ -82,9 +82,22 @@ Regels rond **naamgeving** van **variabelen**
 - **CONSEQUENTIE!!!!**
 
 #### 3.2 Scope
-**scope** van een `<var>`  
+**scope** of a `<var>`  defines where the `<var>` can be accessed/modified.
+**Scope** holds the current state of variables along with their respective values
+Scope of a `<var>` starts with the declaration and ends with the end of the codeblock/scope
 
-much better explanation:
+categories of scope
+- Block level scope
+	- generally in codeblock of if/else, for, while statements
+	- limited to the codeblocks they are declared in
+	- These variables are also termed as the loop variables or statements variable as they have limited their scope up to the body of the statement in which it declared.
+- method level scope
+	method = the block of codes or statements in a program that gives the user the ability to **reuse** the same code
+	
+- class level scope
+
+
+**==much better explanation:==**
 https://www.geeksforgeeks.org/scope-of-a-variable/
 
 ### 4 Traceertabellen

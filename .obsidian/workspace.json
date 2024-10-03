@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7c3f4a03eafb29a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROGRAMMING BASIS/WEEK 02/PB notes 03 theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,14 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "589350bab69895da",
+  "active": "cae0415218a0f339",
   "lastOpenFiles": [
+    "PROGRAMMING BASIS/WEEK 02/PB notes 02 theory.md",
+    "PROGRAMMING BASIS/WEEK 02/PB notes 03 theory.md",
     "WEB/WEEK 01/TESTS/hello.html",
     "WEB/WEEK 01/TESTS/hello2.html",
-    "PROGRAMMING BASIS/WEEK 02/PB notes 03 theory.md",
     "WEB/WEEK 02/TESTS/oefeningLists.html",
     "WEB/WEEK 02/pb notes 02 web.md",
-    "PROGRAMMING BASIS/WEEK 02/PB notes 02 theory.md",
     "PROGRAMMING BASIS/WEEK 02/PB notes 02 theory 1.md",
     "PROGRAMMING BASIS/WEEK 02/PB notes 03 labs.md",
     "PROGRAMMING BASIS/Programmeren_Basis_(dag)_-_Gent_-_Documenten/Hoe_kan_ik_een_adoc_bestand_met_opmaak_bekijken.pdf",
