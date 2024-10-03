@@ -11,11 +11,9 @@
             "id": "34350a0e6eee6eb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "PROGRAMMING BASIS/WEEK 02/PB notes 02 labs.md",
-                "mode": "source",
-                "source": false
+                "file": "PROGRAMMING BASIS/Programmeren_Basis_(dag)_-_Gent_-_Documenten/Hoe_kan_ik_een_adoc_bestand_met_opmaak_bekijken.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROGRAMMING BASIS/WEEK 02/PB notes 02 labs.md",
+                "file": "PROGRAMMING BASIS/Programmeren_Basis_(dag)_-_Gent_-_Documenten/Hoe_kan_ik_een_adoc_bestand_met_opmaak_bekijken.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROGRAMMING BASIS/WEEK 02/PB notes 02 labs.md",
+                "file": "PROGRAMMING BASIS/Programmeren_Basis_(dag)_-_Gent_-_Documenten/Hoe_kan_ik_een_adoc_bestand_met_opmaak_bekijken.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROGRAMMING BASIS/WEEK 02/PB notes 02 labs.md"
+                "file": "PROGRAMMING BASIS/Programmeren_Basis_(dag)_-_Gent_-_Documenten/Hoe_kan_ik_een_adoc_bestand_met_opmaak_bekijken.pdf"
               }
             }
           },
@@ -162,10 +160,10 @@
   },
   "active": "34350a0e6eee6eb6",
   "lastOpenFiles": [
+    "PROGRAMMING BASIS/WEEK 02/PB notes 02 labs.md",
     "PROGRAMMING BASIS/WEEK 02/PB notes 03 labs.md",
     "PROGRAMMING BASIS/WEEK 02/PB notes 03 theory.md",
     "PROGRAMMING BASIS/WEEK 02/PB notes 02 theory.md",
-    "PROGRAMMING BASIS/WEEK 02/PB notes 02 labs.md",
     "PROGRAMMING BASIS/WEEK 01/PB1 notes 01 theory.md",
     "PROGRAMMING BASIS/WEEK 01/PB1 notes 01 labs.md",
     "WEB/WEEK 01/WEB notes 01.md",
