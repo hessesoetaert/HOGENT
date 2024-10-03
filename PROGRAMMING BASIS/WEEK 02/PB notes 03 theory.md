@@ -82,6 +82,9 @@ Regels rond **naamgeving** van **variabelen**
 - **CONSEQUENTIE!!!!**
 
 #### 3.2 Scope
+**scope** van een `<var>`  
 
+much better explanation:
+https://www.geeksforgeeks.org/scope-of-a-variable/
 
 ### 4 Traceertabellen

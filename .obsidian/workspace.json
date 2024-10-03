@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "74d7b7b03f264cbe",
+        "id": "985ed525b3ef317b",
         "type": "tabs",
         "children": [
           {
-            "id": "34350a0e6eee6eb6",
+            "id": "589350bab69895da",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PROGRAMMING BASIS/Programmeren_Basis_(dag)_-_Gent_-_Documenten/Hoe_kan_ik_een_adoc_bestand_met_opmaak_bekijken.pdf"
+                "file": "PROGRAMMING BASIS/WEEK 02/PB notes 03 theory.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 310.50720596313477
   },
   "right": {
     "id": "999561080eb45e90",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROGRAMMING BASIS/Programmeren_Basis_(dag)_-_Gent_-_Documenten/Hoe_kan_ik_een_adoc_bestand_met_opmaak_bekijken.pdf",
+                "file": "PROGRAMMING BASIS/WEEK 02/PB notes 03 theory.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROGRAMMING BASIS/Programmeren_Basis_(dag)_-_Gent_-_Documenten/Hoe_kan_ik_een_adoc_bestand_met_opmaak_bekijken.pdf",
+                "file": "PROGRAMMING BASIS/WEEK 02/PB notes 03 theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROGRAMMING BASIS/Programmeren_Basis_(dag)_-_Gent_-_Documenten/Hoe_kan_ik_een_adoc_bestand_met_opmaak_bekijken.pdf"
+                "file": "PROGRAMMING BASIS/WEEK 02/PB notes 03 theory.md"
               }
             }
           },
@@ -138,9 +140,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "4bcb292f9d10fb86",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -158,26 +168,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34350a0e6eee6eb6",
+  "active": "589350bab69895da",
   "lastOpenFiles": [
-    "PROGRAMMING BASIS/WEEK 02/PB notes 02 labs.md",
-    "PROGRAMMING BASIS/WEEK 02/PB notes 03 labs.md",
+    "WEB/WEEK 01/TESTS/hello.html",
+    "WEB/WEEK 01/TESTS/hello2.html",
     "PROGRAMMING BASIS/WEEK 02/PB notes 03 theory.md",
+    "WEB/WEEK 02/TESTS/oefeningLists.html",
+    "WEB/WEEK 02/pb notes 02 web.md",
     "PROGRAMMING BASIS/WEEK 02/PB notes 02 theory.md",
+    "PROGRAMMING BASIS/WEEK 02/PB notes 02 theory 1.md",
+    "PROGRAMMING BASIS/WEEK 02/PB notes 03 labs.md",
+    "PROGRAMMING BASIS/Programmeren_Basis_(dag)_-_Gent_-_Documenten/Hoe_kan_ik_een_adoc_bestand_met_opmaak_bekijken.pdf",
+    "PROGRAMMING BASIS/WEEK 02/PB notes 02 labs.md",
     "PROGRAMMING BASIS/WEEK 01/PB1 notes 01 theory.md",
     "PROGRAMMING BASIS/WEEK 01/PB1 notes 01 labs.md",
     "WEB/WEEK 01/WEB notes 01.md",
     "WEB/WEEK 02/TESTS/oefeningLists-1.html",
-    "WEB/WEEK 02/TESTS/oefeningLists.html",
-    "WEB/WEEK 02/pb notes 02 web.md",
     "WEB/WEEK 02/TESTS",
     "WEB/WEEK 02/New folder",
     "WEB/WEEK 02/Web1_les1.pdf",
     "WEB/WEEK 02",
     "PROGRAMMING BASIS/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.pdb",
-    "PROGRAMMING BASIS/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ref/ConsoleApp2.dll",
-    "PROGRAMMING BASIS/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.dll",
-    "PROGRAMMING BASIS/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.runtimeconfig.json",
     "Pasted image 20240928110446.png",
     "DATABANKEN/WEEK 2/Databanken_(dag)_-_Documenten_-_data (1)/db_foundations-model.png",
     "DATABANKEN/WEEK 2/Databanken_(dag)_-_Documenten_-_data (1)/bib-model.png",
