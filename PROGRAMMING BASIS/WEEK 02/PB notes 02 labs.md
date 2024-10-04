@@ -1,6 +1,6 @@
 ## String concatenatie en input/output
 #### oefening D02frietjes
-```c#
+```c# title:D02frietjes
 // vraag naam 1
 Console.Write("Geef een naam : ");
 string naam1 = Console.ReadLine();
@@ -18,7 +18,7 @@ Console.WriteLine(result);
 ```
 
 #### oefening D02leeftijd
-```c#
+```c# title:D02leeftijd
 // vraag naam 
 Console.Write("Geef je naam : ");
 string naam = Console.ReadLine();
@@ -33,8 +33,8 @@ Console.WriteLine(result);
 ```
 
 ## Conversie
-#### oefening D02leeftijdvolgend jaar
-```c#
+#### oefening D02leeftijdvolgendjaar
+```c# title:D02leeftijdvolgend jaar
 // vraag naam 
 Console.Write("Geef je naam : ");
 string naam = Console.ReadLine();
@@ -51,7 +51,7 @@ Console.WriteLine(result);
 ```
 
 #### oefening D02som
-```C#
+```C# title:D02som
 // vraag muntstukken van 2 
 Console.Write("Aantal muntstukken van 2 euro : ");
 int muntstukkenVan2 = int.Parse(Console.ReadLine());
@@ -67,7 +67,7 @@ Console.WriteLine(result);
 ```
 
 #### oefening D02gemiddelde
-```C#
+```C# title:D02gemiddelde
 // vraag kommagetallen
 Console.Write("geef een kommagetal : ");
 double getal1 = double.Parse(Console.ReadLine());
@@ -83,7 +83,7 @@ Console.WriteLine(result);
 ```
 
 #### oefening D02temperatuur
-```C#
+```C# title:D02temperatuur
 // vraag var
 Console.Write("geef een temperatuur in graden Fahrenheit : ");
 double tempInF = double.Parse(Console.ReadLine());
@@ -96,7 +96,7 @@ Console.WriteLine(result);
 ```
 
 #### oefening D02getalontleden
-```C#
+```C#: title:D02getalontleden
 // vraag var
 Console.Write("geef een getal : ");
 int getal = int.Parse(Console.ReadLine());
@@ -116,7 +116,7 @@ Console.WriteLine(result);
 ```
 
 #### oefening D02hetmaandieet
-```C#
+```C# title:D02hetmaandieet
 // vraag var
 Console.Write("Geef je gewicht in kg : ");
 double gewichtOpAarde = double.Parse(Console.ReadLine());
@@ -131,7 +131,7 @@ Console.WriteLine(result);
 
 ## Controlestructuren if en if/else
 #### oefening D02volwassen
-```C#
+```C# title:D02volwassen
 // vraag var
 Console.Write("Geef je leeftijd : ");
 int leeftijd = int.Parse(Console.ReadLine());
@@ -149,7 +149,7 @@ Console.WriteLine(result);
 ```
 
 #### oefening D02gelijk
-```C#
+```C# title:D02gelijk
 // vraag var
 Console.Write("Geef een geheel getal : ");
 int getal1 = int.Parse(Console.ReadLine());
@@ -171,7 +171,7 @@ Console.WriteLine(result);
 ```
 
 #### oefening D02quotient
-```C#
+```C# title:D02quotient
 // vraag var
 Console.Write("Deeltal?: ");
 double deeltal = double.Parse(Console.ReadLine());
@@ -193,7 +193,7 @@ string result = $"Quotient: {quotient}";
 Console.WriteLine(result);
 ```
 #### oefening D02even
-```C#
+```C# title:D02even
 Console.Write("Geef een getal : ");
 int getal = int.Parse(Console.ReadLine());
 
@@ -211,7 +211,7 @@ Console.WriteLine(result);
 ```
 
 #### oefening D02absolutewaarde
-```C#
+```C# title:D02absolutewaarde
 Console.Write("Geef een getal : ");
 int getal = int.Parse(Console.ReadLine());
 
@@ -226,4 +226,3 @@ else
 }
 Console.WriteLine($"de absolute waarde is : {absoluteWaarde}");
 ```
-

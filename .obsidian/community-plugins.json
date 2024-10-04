@@ -3,8 +3,5 @@
   "obsidian-html-plugin",
   "better-export-pdf",
   "obsidian-git",
-  "code-language-completer",
-  "editing-toolbar",
-  "execute-code",
-  "codeblock-customizer"
+  "code-language-completer"
 ]

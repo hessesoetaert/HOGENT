@@ -1,10 +1,9 @@
-
 do not put solutions in same directory -why?
 
 enable do not use toplevel statements
 toont -> 
 
-```C#:
+```C#
 using System; 
 namespace Project1 
 { 
@@ -18,12 +17,12 @@ namespace Project1
 }
 ```
 
----
+
 ## **BASIS OEF**
 
 
 ##### Oefening D01codepositioneren
-```C#
+```C# title:D01codepositioneren 
 Random r = new Random();
 int getal = r.Next(1, 101);
 int gok = 0;
@@ -48,10 +47,10 @@ do
 } while (gok != getal);
 ```
 
----
+
 
 ##### Oefening D01centimetersnaarmeters
-```C#: 
+```C# title:D01centimetersnaarmeters
 int lengteInCm = 713;
 Console.WriteLine(lengteInCm);
 Console.WriteLine("cm = ");
@@ -65,10 +64,8 @@ Console.WriteLine(aantalResterendeCm);
 Console.WriteLine("cm");
 ```
 
----
-
 ##### Oefening D01totalebedrag
-```C#:
+```C# title:D01totalebedrag
 int biljettenVan10Euro = 7;
 int biljettenVan5Euro = 6;
 int muntstukkenVan2Euro = 5;
@@ -84,10 +81,8 @@ double totaalBedrag = (biljettenVan10Euro * 10)
 Console.WriteLine(totaalBedrag);
 ```
 
----
-
 ##### Oefening D01bmi
-```C#:
+```C# title:D01bmi
 int lengteInCm = 182;
 int gewichtInKg = 72;
 
@@ -97,10 +92,8 @@ double bmi = gewichtInKg / Math.Pow(lengteInM,2);
 Console.WriteLine(bmi);
 ```
 
----
-
 ##### Oefening D01Waardesomwisselen
-```C#:
+```C# title:D01Waardesomwisselen
 int a = 5;
 int b = 13;
 int switchNumber = 0;
@@ -115,10 +108,8 @@ Console.WriteLine(b);
 }
 ```
 
----
-
 ##### Oefening D01euronaarpound
-```C#:
+```C# title:D01euronaarpound
 double euroBedrag = 105.4;
 double wisselkoersEurToPound = 0.88;
 double poundBedrag = euroBedrag * wisselkoersEurToPound;
@@ -128,7 +119,3 @@ Console.Write("EUR = ");
 Console.Write(poundBedrag);
 Console.Write("GPB");
 ```
-
----
-
-

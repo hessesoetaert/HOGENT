@@ -23,14 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROGRAMMING BASIS/WEEK 01/PB1 notes 01 labs.md",
+                "file": "PROGRAMMING BASIS/WEEK 02/PB notes 03 theory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "999561080eb45e90",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROGRAMMING BASIS/WEEK 01/PB1 notes 01 labs.md",
+                "file": "DIGITALE WERKOMGEVING/WEEK 02/03-cmd.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROGRAMMING BASIS/WEEK 01/PB1 notes 01 labs.md",
+                "file": "DIGITALE WERKOMGEVING/WEEK 02/03-cmd.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROGRAMMING BASIS/WEEK 01/PB1 notes 01 labs.md"
+                "file": "DIGITALE WERKOMGEVING/WEEK 02/03-cmd.pdf"
               }
             }
           },
@@ -179,27 +179,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa35ca0a8e086b45",
+  "active": "c7c3f4a03eafb29a",
   "lastOpenFiles": [
+    "PROGRAMMING BASIS/WEEK 02/PB notes 03 theory.md",
+    "PROGRAMMING BASIS/WEEK 02/PB notes 03 labs.md",
+    "PROGRAMMING BASIS/WEEK 02/PB notes 02 theory.md",
+    "PROGRAMMING BASIS/WEEK 02/PB notes 02 labs.md",
+    "PROGRAMMING BASIS/WEEK 01/PB1 notes 01 theory.md",
+    "PROGRAMMING BASIS/WEEK 01/PB1 notes 01 labs.md",
     "DW notes 01.md",
     "DIGITALE WERKOMGEVING/WEEK 02/03-cmd.pdf",
     "DIGITALE WERKOMGEVING/WEEK 01/DW notes 01.md",
     "DIGITALE WERKOMGEVING/WEEK 01/02-windows-stuff.pdf",
-    "PROGRAMMING BASIS/WEEK 02/PB notes 03 theory.md",
     "DIGITALE WERKOMGEVING/00",
     "DIGITALE WERKOMGEVING/WEEK 02",
     "PROGRAMMING BASIS/Programmeren_Basis_(dag)_-_Gent_-_Documenten/cursus-programmeren-basis-v20240923",
-    "PROGRAMMING BASIS/WEEK 02/PB notes 02 theory.md",
     "WEB/WEEK 01/TESTS/hello.html",
     "WEB/WEEK 01/TESTS/hello2.html",
     "WEB/WEEK 02/TESTS/oefeningLists.html",
     "WEB/WEEK 02/pb notes 02 web.md",
     "PROGRAMMING BASIS/WEEK 02/PB notes 02 theory 1.md",
-    "PROGRAMMING BASIS/WEEK 02/PB notes 03 labs.md",
     "PROGRAMMING BASIS/Programmeren_Basis_(dag)_-_Gent_-_Documenten/Hoe_kan_ik_een_adoc_bestand_met_opmaak_bekijken.pdf",
-    "PROGRAMMING BASIS/WEEK 02/PB notes 02 labs.md",
-    "PROGRAMMING BASIS/WEEK 01/PB1 notes 01 theory.md",
-    "PROGRAMMING BASIS/WEEK 01/PB1 notes 01 labs.md",
     "WEB/WEEK 01/WEB notes 01.md",
     "WEB/WEEK 02/TESTS/oefeningLists-1.html",
     "Pasted image 20240928110446.png",

@@ -11,7 +11,7 @@ oops als gedaan
 
 ## Werken met getallen
 #### oefening D03getalraden
-```C#
+```C# title:D03getalraden
 Random rnd = new Random();
 
 Console.WriteLine("De computer denkt aan een getal tussen 0 en 10.");
@@ -30,7 +30,7 @@ else
 }
 ```
 #### oefening D03kleinermetif
-```C#
+```c# title:D03kleinermetif
 Console.Write("Geef een getal : ");
 int getal1 = int.Parse(Console.ReadLine());
 
@@ -54,7 +54,7 @@ else
 Console.WriteLine($"{kleinsteGetal} is kleiner.");
 ```
 #### oefening D03kleinermathmin
-```C#
+```C# title:D03kleinermathmin
 Console.Write("Geef een getal : ");
 int getal1 = int.Parse(Console.ReadLine());
 
@@ -71,7 +71,7 @@ int kleinsteGetal = Math.Min(getal1, getal2);
 Console.WriteLine($"{kleinsteGetal} is kleiner.");
 ```
 #### oefening D03cirkel
-```C#
+```C# title:D03cirkel
 Console.Write("Geef de straal van een cirkel : ");
 double straal = double.Parse(Console.ReadLine());
 
@@ -82,7 +82,7 @@ string result = $"De omtrek is {omtrek} en de oppervlakte is {oppervlakte}.";
 Console.WriteLine(result);
 ```
 #### oefening D03pythagoras
-```C#
+```C# title:D03pythagoras
 Console.Write("Geef de basis : ");
 double basis = double.Parse(Console.ReadLine());
 
@@ -95,7 +95,7 @@ string result = $"De lengte van de schuine zijde is {schuineZijde}";
 Console.WriteLine(result);
 ```
 #### oefening D03absolutewaarde
-```C#
+```C# title:D03absolutewaarde
 Console.Write("Geef een getal : ");
 int getal = int.Parse(Console.ReadLine());
 
@@ -106,28 +106,28 @@ Console.WriteLine($"de absolute waarde is : {absoluteWaarde}");
 
 ## Variabelen en scope
 #### oefening D03
-```C#
+```C# title:
 
 ```
 #### oefening D03
-```C#
+```C# title:
 
 ```
 
 ## Traceertabellen
 #### oefening D03
-```C#
+```C# title:
 
 ```
 #### oefening D03
-```C#
+```C# title:
 
 ```
 #### oefening D03
-```C#
+```C# title:
 
 ```
 #### oefening D03
-```C#
+```C# title:
 
 ```

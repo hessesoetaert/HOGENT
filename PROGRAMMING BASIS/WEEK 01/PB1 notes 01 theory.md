@@ -91,9 +91,7 @@ Console.WriteLine("Ik ben " + leeftijd + "jaar oud.");
 #### 1 Dot notatie, using en namespaces
 
 ###### dot notatie
-```c# 
-System.Console.WriteLine("Hello");
-```
+`{csharp}System.Console.WriteLine("Hello");`
 `Writeline` = **method**
 	-> gedefinieerd in `System.Console` of gewoon `Console` = **klasse**
 		-> gedefinieerd in `System` = **namespace**
