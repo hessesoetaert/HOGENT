@@ -87,18 +87,32 @@ Regels rond **naamgeving** van **variabelen**
 Scope of a `<var>` starts with the declaration and ends with the end of the codeblock/scope
 
 categories of scope
-- Block level scope
+- **Block** level scope
 	- generally in codeblock of if/else, for, while statements
 	- limited to the codeblocks they are declared in
 	- These variables are also termed as the loop variables or statements variable as they have limited their scope up to the body of the statement in which it declared.
-- method level scope
+- **method** level scope
 	method = the block of codes or statements in a program that gives the user the ability to **reuse** the same code
 	
-- class level scope
+- **class** level scope
 	 blablabla
 
 
 **==much better explanation:==**
 https://www.geeksforgeeks.org/scope-of-a-variable/
+
+#### 3.3 Const
+`{c#}const` `<var>` = variable that **cannot get a new value** after declaration
+ALWAYS use `{c#}const` `<var>` instead of  **magic values** to give clarity to your code
+`{c#}const` is short for **constant**
+**magic values** = hardcoded values that are used in code
+	bad practice!
+	not clear where the values come from or what they mean
+	if ever needed to change = lot of work to change every value independently
+	=> prone to get bugs
+
+
+
+
 
 ### 4 Traceertabellen
