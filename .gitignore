@@ -1,7 +1,8 @@
-*.log
+/*.log
 
-temp/
+/temp/
 
-.obsidian/
 
-*.gitignore
+
+/*.gitignore
+/.obsidian
