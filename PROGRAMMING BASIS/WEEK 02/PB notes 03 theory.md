@@ -95,6 +95,7 @@ categories of scope
 	method = the block of codes or statements in a program that gives the user the ability to **reuse** the same code
 	
 - class level scope
+	 blablabla
 
 
 **==much better explanation:==**
