@@ -11,9 +11,11 @@
             "id": "c7c3f4a03eafb29a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "DIGITALE WERKOMGEVING/WEEK 02/03-cmd.pdf"
+                "file": "DIGITALE WERKOMGEVING/WEEK 01/DW notes 01.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -79,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "999561080eb45e90",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIGITALE WERKOMGEVING/WEEK 02/03-cmd.pdf",
+                "file": "DIGITALE WERKOMGEVING/WEEK 01/DW notes 01.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIGITALE WERKOMGEVING/WEEK 02/03-cmd.pdf",
+                "file": "DIGITALE WERKOMGEVING/WEEK 01/DW notes 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIGITALE WERKOMGEVING/WEEK 02/03-cmd.pdf"
+                "file": "DIGITALE WERKOMGEVING/WEEK 01/DW notes 01.md"
               }
             }
           },
@@ -165,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,15 +181,15 @@
   },
   "active": "c7c3f4a03eafb29a",
   "lastOpenFiles": [
+    "DW notes 01.md",
+    "DIGITALE WERKOMGEVING/WEEK 01/DW notes 01.md",
+    "DIGITALE WERKOMGEVING/WEEK 02/03-cmd.pdf",
     "PROGRAMMING BASIS/WEEK 02/PB notes 03 theory.md",
     "PROGRAMMING BASIS/WEEK 02/PB notes 03 labs.md",
     "PROGRAMMING BASIS/WEEK 02/PB notes 02 theory.md",
     "PROGRAMMING BASIS/WEEK 02/PB notes 02 labs.md",
     "PROGRAMMING BASIS/WEEK 01/PB1 notes 01 theory.md",
     "PROGRAMMING BASIS/WEEK 01/PB1 notes 01 labs.md",
-    "DW notes 01.md",
-    "DIGITALE WERKOMGEVING/WEEK 02/03-cmd.pdf",
-    "DIGITALE WERKOMGEVING/WEEK 01/DW notes 01.md",
     "DIGITALE WERKOMGEVING/WEEK 01/02-windows-stuff.pdf",
     "DIGITALE WERKOMGEVING/00",
     "DIGITALE WERKOMGEVING/WEEK 02",
