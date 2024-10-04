@@ -13,7 +13,7 @@ aaa\bbb.docx
 ..\ddd.pdf
 ```
 
-`..\` = map omhoog
+`..` = map omhoog
 
 
 
