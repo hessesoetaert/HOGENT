@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIGITALE WERKOMGEVING/WEEK 01/DW notes 01.md",
+                "file": "SOFTWAREONTWERP/WEEK 02/SO notes 02.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIGITALE WERKOMGEVING/WEEK 01/DW notes 01.md",
+                "file": "SOFTWAREONTWERP/WEEK 02/SO notes 02.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIGITALE WERKOMGEVING/WEEK 01/DW notes 01.md",
+                "file": "SOFTWAREONTWERP/WEEK 02/SO notes 02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIGITALE WERKOMGEVING/WEEK 01/DW notes 01.md"
+                "file": "SOFTWAREONTWERP/WEEK 02/SO notes 02.md"
               }
             }
           },
@@ -181,8 +181,10 @@
   },
   "active": "c7c3f4a03eafb29a",
   "lastOpenFiles": [
-    "TEST TO COMMIT TO COLLAB.md",
     "DIGITALE WERKOMGEVING/WEEK 01/DW notes 01.md",
+    "SOFTWAREONTWERP/WEEK 02/SO notes 02.md",
+    "SOFTWAREONTWERP/WEEK 02",
+    "TEST TO COMMIT TO COLLAB.md",
     "test.docx",
     "DW notes 01.md",
     "DIGITALE WERKOMGEVING/WEEK 02/03-cmd.pdf",
@@ -201,7 +203,6 @@
     "WEB/WEEK 02/TESTS/oefeningLists.html",
     "WEB/WEEK 02/pb notes 02 web.md",
     "PROGRAMMING BASIS/WEEK 02/PB notes 02 theory 1.md",
-    "PROGRAMMING BASIS/Programmeren_Basis_(dag)_-_Gent_-_Documenten/Hoe_kan_ik_een_adoc_bestand_met_opmaak_bekijken.pdf",
     "WEB/WEEK 01/WEB notes 01.md",
     "Pasted image 20240928110446.png",
     "DATABANKEN/WEEK 2/Databanken_(dag)_-_Documenten_-_data (1)/db_foundations-model.png",
