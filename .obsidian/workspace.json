@@ -23,13 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DW notes 01.md",
+                "file": "PROGRAMMING BASIS/WEEK 01/PB1 notes 01 labs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "999561080eb45e90",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIGITALE WERKOMGEVING/WEEK 02/03-cmd.pdf",
+                "file": "PROGRAMMING BASIS/WEEK 01/PB1 notes 01 labs.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIGITALE WERKOMGEVING/WEEK 02/03-cmd.pdf",
+                "file": "PROGRAMMING BASIS/WEEK 01/PB1 notes 01 labs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIGITALE WERKOMGEVING/WEEK 02/03-cmd.pdf"
+                "file": "PROGRAMMING BASIS/WEEK 01/PB1 notes 01 labs.md"
               }
             }
           },
@@ -179,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7c3f4a03eafb29a",
+  "active": "fa35ca0a8e086b45",
   "lastOpenFiles": [
     "DW notes 01.md",
     "DIGITALE WERKOMGEVING/WEEK 02/03-cmd.pdf",

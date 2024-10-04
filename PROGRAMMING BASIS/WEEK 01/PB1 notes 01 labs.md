@@ -23,7 +23,7 @@ namespace Project1
 
 
 ##### Oefening D01codepositioneren
-```C#: hallo
+```C#
 Random r = new Random();
 int getal = r.Next(1, 101);
 int gok = 0;

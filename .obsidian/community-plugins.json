@@ -5,6 +5,6 @@
   "obsidian-git",
   "code-language-completer",
   "editing-toolbar",
-  "obsidian-advanced-codeblock",
-  "execute-code"
+  "execute-code",
+  "codeblock-customizer"
 ]
