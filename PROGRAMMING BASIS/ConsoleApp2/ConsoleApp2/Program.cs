@@ -1,4 +1,5 @@
-﻿using System.Reflection.Metadata;
+﻿using Microsoft.VisualBasic;
+using System.Reflection.Metadata;
 using System.Security.Principal;
 
 namespace ConsoleApp2
@@ -6,25 +7,27 @@ namespace ConsoleApp2
     internal class Program
     {
         static void Main(string[] args)
-        {
-            const double ftToCm = 30.48;
-            const double inchtoCm = 2.54;
+        { 
 
 
-            Console.Write("Geef het aantal feet : ");
-            string aantalFeetAlsTekst = Console.ReadLine();
-            double aantalFeet = double.Parse(aantalFeetAlsTekst);
 
-            Console.Write("Geef het aantal inches : ");
-            string aantalInchesAlsTekst = Console.ReadLine();
-            double aantalInches = double.Parse(aantalInchesAlsTekst);
+            const int secondenPerMinuut = 60;
+            const int secondenPerUur = 60 * secondenPerMinuut;
 
-            double aantalFeetInCm = aantalFeet * ftToCm;
-            double aantalInchesInCm = aantalInches * inchtoCm;
-
-            double totaalInCm = aantalFeetInCm + aantalInchesInCm;
-
-            Console.WriteLine($"Dat is {totaalInCm}cm.");
+            Console.Write("Geef het totaal aantal seconden : ");
+            string totaalSecondenAlsTekst = Console.ReadLine();
+            int totaalSeconden = int.Parse(totaalSecondenAlsTekst);
+            
+            int resterendeSeconden = totaalSeconden;
+            int uren = resterendeSeconden / secondenPerUur;
+            resterendeSeconden = resterendeSeconden - uren * secondenPerUur;
+            
+            int minuten = resterendeSeconden / secondenPerMinuut;
+            resterendeSeconden = resterendeSeconden - minuten * secondenPerMinuut;
+            
+            int seconden = resterendeSeconden;
+            
+            Console.WriteLine($"{totaalSeconden}s is {uren}u, {minuten}min en {seconden}s.");
 
 
 

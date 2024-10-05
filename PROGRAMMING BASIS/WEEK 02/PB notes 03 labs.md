@@ -128,7 +128,15 @@ Console.WriteLine($"Dat is {totaalInCm}cm.");
 ```
 #### oefening D03persecondewijzer
 ```C# title:D03persecondewijzer
+Console.Write("Geef een aantal seconden: ");
+int totAantalSeconden = int.Parse(Console.ReadLine());
 
+int aantalUur = totAantalSeconden / secInUur;
+int aantalMinuten = (totAantalSeconden % secInUur) / secInMinuut;
+int aantalSeconden = (totAantalSeconden % secInMinuut);
+
+
+Console.WriteLine($"Dat is {aantalUur} uur, {aantalMinuten} minuten en {aantalSeconden} seconden.");
 ```
 
 ## Traceertabellen
