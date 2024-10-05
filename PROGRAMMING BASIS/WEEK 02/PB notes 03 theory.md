@@ -103,8 +103,15 @@ https://www.geeksforgeeks.org/scope-of-a-variable/
 
 #### 3.3 Const
 `{c#}const` `<var>` = variable that **cannot get a new value** after declaration
-ALWAYS use `{c#}const` `<var>` instead of  **magic values** to give clarity to your code
+(Almost) ALWAYS use `{c#}const` `<var>` instead of  **magic values** to give clarity to your code
+Not if making it a `{c#}const` `<var>` if:
+- does not make it more clear
+- value only is used once
+- can't think of a meaningful name
+- the value will ever change
+- 
 `{c#}const` is short for **constant**
+
 **magic values** = hardcoded values that are used in code
 	bad practice!
 	not clear where the values come from or what they mean
@@ -116,3 +123,8 @@ ALWAYS use `{c#}const` `<var>` instead of  **magic values** to give clarity to y
 
 
 ### 4 Traceertabellen
+= tabel
+wat is deze info??
+als je Visual studio runt met break or steps enabled kan je ook een "traceertabel" zien.
+=> Locals / Autos tab
+![[Pasted image 20241004212436.png]]
