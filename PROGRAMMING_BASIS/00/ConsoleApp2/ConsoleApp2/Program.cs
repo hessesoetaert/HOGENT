@@ -7,27 +7,18 @@ namespace ConsoleApp2
     internal class Program
     {
         static void Main(string[] args)
-        { 
+        {
+
+            int rnd = 2;
+            bool isEven = false;
+            int streak = 0;
+
+            if(Console.ReadKey().Key == ConsoleKey.Enter)
+            {
+                Console.WriteLine("ENTER");
+            }
 
 
-
-            const int secondenPerMinuut = 60;
-            const int secondenPerUur = 60 * secondenPerMinuut;
-
-            Console.Write("Geef het totaal aantal seconden : ");
-            string totaalSecondenAlsTekst = Console.ReadLine();
-            int totaalSeconden = int.Parse(totaalSecondenAlsTekst);
-            
-            int resterendeSeconden = totaalSeconden;
-            int uren = resterendeSeconden / secondenPerUur;
-            resterendeSeconden = resterendeSeconden - uren * secondenPerUur;
-            
-            int minuten = resterendeSeconden / secondenPerMinuut;
-            resterendeSeconden = resterendeSeconden - minuten * secondenPerMinuut;
-            
-            int seconden = resterendeSeconden;
-            
-            Console.WriteLine($"{totaalSeconden}s is {uren}u, {minuten}min en {seconden}s.");
 
 
 
