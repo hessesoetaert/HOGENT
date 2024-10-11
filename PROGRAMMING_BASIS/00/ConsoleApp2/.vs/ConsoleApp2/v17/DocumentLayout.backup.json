@@ -5,6 +5,15 @@
     {
       "AbsoluteMoniker": "D:0:0:{6BCEDD38-FF95-4783-A766-AF1D796F3CAC}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\hesse\\desktop\\hogent\\programming_basis\\00\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BCEDD38-FF95-4783-A766-AF1D796F3CAC}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hesse\\AppData\\Local\\Temp\\Rar$DIa36860.46240\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hesse\\AppData\\Local\\Temp\\Rar$DIa36860.48234\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hesse\\AppData\\Local\\Temp\\Rar$DIa36860.44197\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +23,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\hesse\\AppData\\Local\\Temp\\Rar$DIa36860.48234\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa36860.48234\\main.cpp",
+              "ToolTip": "C:\\Users\\hesse\\AppData\\Local\\Temp\\Rar$DIa36860.48234\\main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa36860.48234\\main.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T13:01:13.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\hesse\\AppData\\Local\\Temp\\Rar$DIa36860.46240\\Game.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa36860.46240\\Game.cpp",
+              "ToolTip": "C:\\Users\\hesse\\AppData\\Local\\Temp\\Rar$DIa36860.46240\\Game.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa36860.46240\\Game.cpp",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAM4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T13:00:53.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\hesse\\AppData\\Local\\Temp\\Rar$DIa36860.44197\\Game.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa36860.44197\\Game.h",
+              "ToolTip": "C:\\Users\\hesse\\AppData\\Local\\Temp\\Rar$DIa36860.44197\\Game.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa36860.44197\\Game.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-11T13:00:33.46Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +72,7 @@
               "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
               "ToolTip": "C:\\Users\\hesse\\Desktop\\HOGENT\\PROGRAMMING_BASIS\\00\\ConsoleApp2\\ConsoleApp2\\Program.cs*",
               "RelativeToolTip": "ConsoleApp2\\Program.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T12:27:11.548Z",
               "EditorCaption": ""

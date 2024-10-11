@@ -1,73 +1,89 @@
 ﻿using Microsoft.VisualBasic;
 using System.Reflection.Metadata;
 using System.Security.Principal;
+using System.Diagnostics;
+using System.Drawing;
+using System.Security.Cryptography.X509Certificates;
 
 namespace ConsoleApp2
 {
     internal class Program
     {
+        public static string g_elapsedMSec = " START";
+        public static Stopwatch g_runTime = new Stopwatch();
+        public static int g_frameNr = 0;
+        
+
         static void Main(string[] args)
         {
 
-            ConsoleKey keyPressed;
-            Console.WriteLine("press enter");
-            
-            bool isValidKey = true;
-            do
+            bool runGame = true;
+            g_runTime.Start();
+
+
+
+
+
+
+
+
+            ConsoleSpiner spin = new ConsoleSpiner();
+            Console.Write("Working....\n");
+            double elapsedTime = 0;
+            while (runGame)
             {
-                keyPressed = Console.ReadKey().Key;
-
-                if (keyPressed == ConsoleKey.Enter)
+                elapsedTime += Program.GetElapsedSec();
+                //if ()
                 {
-                    isValidKey = true;
-                    Console.WriteLine("ENTER");
-
+                    spin.Turn();
                 }
-                else
-                {
-                    isValidKey = false;
-                }
-            } while (isValidKey);
+
+
+                //ELAPSED SEC
+                g_runTime.Stop();
+                g_elapsedMSec = g_runTime.ElapsedMilliseconds.ToString();
+                g_runTime.Restart();
+            }
+        }
+
+        
+        public void GameLoop()
+        {
+
+        }
+
+        public void DrawFrame(double elapsedTime = 0)
+        {
+
+        }
+
+        double GetElapsedSec()
+        {
+           double elapsedSec = double.Parse(g_elapsedMSec) * 1000;
             
+            return elapsedSec ;
+        }
 
-            keyPressed = Console.ReadKey().Key;
-            if (keyPressed == ConsoleKey.Enter)
+
+        public class ConsoleSpiner
+        {
+            int counter;
+            public ConsoleSpiner()
             {
-                
+                counter = 0;
             }
-
-            bool doLoop = true;
-
-
-            while (doLoop)
+            public void Turn()
             {
-                do
+                counter++;
+                switch (counter % 4)
                 {
-                    Console.WriteLine("\nDo again?: [y/n] \n");
-                    keyPressed = Console.ReadKey().Key;
-                    
-                    if (keyPressed == ConsoleKey.Y)
-                    {
-                        doLoop = true;
-                        isValidKey = true;
-
-                    }
-                    else if (keyPressed == ConsoleKey.N)
-                    {
-                        doLoop =false;
-                        isValidKey = true;
-                    }
-                    else
-                    {
-                        isValidKey = false;
-                    }
-                } while (isValidKey);
-
+                    case 0: Console.Write("/"); break;
+                    case 1: Console.Write("-"); break;
+                    case 2: Console.Write("\\"); break;
+                    case 3: Console.Write("|"); break;
+                }
+                Console.SetCursorPosition(Console.CursorLeft - 1, Console.CursorTop);
             }
-
-
-
-
         }
     }
 }
