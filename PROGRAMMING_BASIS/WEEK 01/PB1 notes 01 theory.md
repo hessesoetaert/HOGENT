@@ -1,4 +1,4 @@
-### **3 ENKELE TAALELEMENTEN**
+## **3 ENKELE TAALELEMENTEN**
 ##### 3.1 Statements and terminators:
 - instructies = statements
 - wordt afgesloten met een `;`

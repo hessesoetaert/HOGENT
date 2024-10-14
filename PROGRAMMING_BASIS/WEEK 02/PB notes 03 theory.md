@@ -1,4 +1,4 @@
-### 1 strings bouwen met string interpolatie
+## 1 strings bouwen met string interpolatie
 **string** **interpolatie**
 => `$` voor de **string literal** zetten
 => in de string tussen `{...}` een `<var>` plaatsen
@@ -12,7 +12,7 @@ Console.Write(bericht);
 ```
 als je in deze string literal met interpolatie een `}` wil hebben, moet je deze verdubbelen `}}`
 
-### 2 werken met getallen
+## 2 werken met getallen
 #### 2.1 rondom getallen
 om random getallen te bekomen moet je eerst deze initialiseren met deze lijn:
 ```C#
@@ -60,7 +60,7 @@ official documentation:
 | `<var1> = <var1> - <var2>` | `<var1> -= <var2>` |
 | `<var1> = <var1> * <var2>` | `<var1> *= <var2>` |
 | `<var1> = <var1> / <var2>` | `<var1> /= <var2>` |
-### 3 Variabelen en scope
+## 3 Variabelen en scope
 **Declaratie van een variabele**:
 - introduceert variabele
 - geeft deze een naam
@@ -122,7 +122,7 @@ Not if making it a `{c#}const` `<var>` if:
 
 
 
-### 4 Traceertabellen
+## 4 Traceertabellen
 = tabel
 wat is deze info??
 als je Visual studio runt met break or steps enabled kan je ook een "traceertabel" zien.

@@ -1,4 +1,4 @@
-### 2 STRINGS
+## 2 STRINGS
 #### 2.1 Speciale symbolen in een string
 `"<string>"` -> string af bakenen
 `string s = "Programmeren";`
@@ -30,7 +30,7 @@ Console.WriteLine("ik kocht " + aantal + " broden");
 hier is `+` geen optelling!
 het plakt strings aan elkaar
 
-### 3 Console invoer en uitvoer
+## 3 Console invoer en uitvoer
 #### 3.1 Write en Writeline
 Console window keeps track of hidden **cursorpostition**
 => place where characters will appear next
@@ -49,7 +49,7 @@ leest de input altijd als **string**!
 official documentation:
 - [https://docs.microsoft.com/en-us/dotnet/api/system.console.readline](https://docs.microsoft.com/en-us/dotnet/api/system.console.readline)
 
-### 4 Conversie tussen de datatypes
+## 4 Conversie tussen de datatypes
 **Type conversion** = conversion of `<var>` from one type to another
 implies that the data of`<var>` undergoes a change BUT it actually makes a new `<var>` of the desired type
 **2 PROBLEMS:**
@@ -101,7 +101,7 @@ bv.:
 - `Convert.ToFLoat(<var>)`
 - `Convert.ToString(<var>)`
 
-### 6 Controlestructuren
+## 6 Controlestructuren
 - **sequentie**: opdrachten uitvoeren in de volgorde waarin ze in de broncode staan
 - **selectie** : stukken code wel of niet uitvoeren (op basis van één of andere voorwaarde)
 - **iteratie** : stukken herhalen (wederom afhankelijk van een voorwaarde)
@@ -120,7 +120,7 @@ int leeftijd = int.Parse(leeftijdAlsTekst);
 ```
 hier is er een codeblock na `Main()`
 
-### 7 Conrolestructuur : if
+## 7 Conrolestructuur : if
 => selectiestructuur
 kan codeblock wel of niet laten uitvoeren
 ```c#
@@ -136,7 +136,7 @@ if (<condition>)
 }
 ```
 condition always results on a **boolean** TRUE or FALSE
-### 8 Waarden vergelijken
+## 8 Waarden vergelijken
 
 | vergelijking | betekenis                     |
 | ------------ | ----------------------------- |
@@ -153,7 +153,7 @@ strings:
 | `<string1> == <string2>` | is `<string1>` dezelfde tekst als `<string2>`      |
 | `<string1> != <string2>` | is `<string1>` niet dezelfde tekst als `<string2>` |
 
-### 9 controlestructuur : if/else
+## 9 controlestructuur : if/else
 ```c# 
 if (<condition>) 
 { 
@@ -169,7 +169,7 @@ else
 - `<condition>` is true => code block 1 will execute
 - `<condition>` is false => code block 2 will execute
 
-### 10 het boolean datatype
+## 10 het boolean datatype
 boolean datatype = `bool`
 can only contain:
 - true

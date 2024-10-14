@@ -1,4 +1,4 @@
-### 1. Invoer meteen converteren
+## 1. Invoer meteen converteren
 To instantly convert the input of `Console.ReadLine()` or `Console.Read()` 
 => put in into a `Parse()` method.
 ex.:
@@ -10,7 +10,7 @@ int helft = aantalDeelnemers / 2;
 Console.WriteLine($"De helft van dat aantal is: {helft}")
 ```
 
-### 2. Debugging
+## 2. Debugging
 **compile errors:**
 => compiler does not understand/ wants to hinder you from executing 
 **Runtime errors (Exceptions):**
@@ -21,12 +21,13 @@ ex. wrong calculations
 #### 2.1 Debugging in VS
 in Locals window you can find the variables on the stack to help debug (_**Debug > Windows >Locals**_)
 
-extra information about the stack:
+extra information about the stack: 
+https://www.geeksforgeeks.org/c-sharp-stack-with-examples/
 
-### 3. If ... else if ... else ...
-### 4. Logische bewerkingen
-### 5. Interval checking
-### 6. Invoer robuust opvangen
+## 3. If ... else if ... else ...
+## 4. Logische bewerkingen
+## 5. Interval checking
+## 6. Invoer robuust opvangen
 
 ```csharp
 
