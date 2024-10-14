@@ -30,26 +30,60 @@ https://www.geeksforgeeks.org/c-sharp-stack-with-examples/
 
 ## 3. If ... else if ... else ...
 ```csharp
+//correct if ... else if ... else block
 if (condition1) {
 	<code_block_1>
 } 
 else if (condition2){
 	<code_block_2>
 }
-else {
+else if (condition3){
 	<code_block_3>
 }
+else {
+	<code_block_4>
+}
+
+//NOT THE SAME AS
+if (condition1) {
+	code block 1
+}
+if (condition2) {
+	code block 2
+}
+if (condition3) {
+	code block 3
+}
 ```
-Deze controle structuren zijn linked.
-the program wil check conditions until there is a condition that results <c#>`{c#} true`
+Deze controle structuren zijn linked. => like one block
+the program wil check conditions until there is a condition that results `{c#} true`
 
 If the first condition is false the statement will automatically check the next condition until there is an `{c#} else` statement or the chain ends.
+
 This new condition has to be in an `{c#} else if` statement or an `{c#} else` statement. 
-`{c#} `
+`{C#} else if` statement will check the new condition without any regard for the last system
+the `{C#} else` statement will only execute if none of the other conditions were met and end the link
+
+`{c#} if` statements in succession just makes them execute individually, in order, unconditionally
+
+BETTER EXPLENATION:
+https://www.geeksforgeeks.org/c-sharp-if-else-statement/?ref=header_outind
 ## 4. Logische bewerkingen
+
+| &&   | AND |
+| ---- | --- |
+| \|\| | OR  |
+| !    | NOT |
+
 ## 5. Interval checking
+read cursus pls
 ## 6. Invoer robuust opvangen
 
 ```csharp
+string woord = " UPpOrDoWn "
 
+woord.ToUpper() //=> converts all char to UpperCase 
+woord.toLower() //=>converts all char to LowerCase
+
+woord.Trim() //=> trims spaces in front and on the end of the string
 ```
