@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "c283ae5c916687b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0efa4f28abdc601e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a36587d76e29c65",
+            "type": "leaf",
+            "state": {
+              "type": "html-view",
+              "state": {
+                "file": "WEB/WEEK 02/TESTS/Opdracht_1.html"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d90cff1be5e5a59d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5247f096fbc1a13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a4a02177c6289ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d5714b1d864b914",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0406c59e84696844",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ca81048767b89199",
+    "type": "split",
+    "children": [
+      {
+        "id": "61df0ac2ba0aef76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b75aef318311606",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WEB/WEEK 02/TESTS/Opdracht_1.html",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff5a9481e8822272",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WEB/WEEK 02/TESTS/Opdracht_1.html",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d21fc85078ee9e6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81a76314ac1bfe70",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "69c3e9bbb31c0202",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WEB/WEEK 02/TESTS/Opdracht_1.html"
+              }
+            }
+          },
+          {
+            "id": "4dbb3914672cafeb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3a36587d76e29c65",
+  "lastOpenFiles": [
+    "PROGRAMMING_BASIS/WEEK 02/PB notes 02 theory.md",
+    "PROGRAMMING_BASIS/WEEK 02/PB notes 03 labs.md",
+    "PROGRAMMING_BASIS/WEEK 02/PB notes 02 labs.md",
+    "README.md",
+    "_PDF/PB notes 01 theory.pdf",
+    "PROGRAMMING_BASIS/WEEK 02/PB notes 04 theory.md",
+    "SOFTWAREONTWERP/WEEK 02/SO notes 02.md",
+    "WEB/WEEK 02/pb notes 02 web.md",
+    "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/refint/ConsoleApp2.dll",
+    "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ref/ConsoleApp2.dll",
+    "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/refint",
+    "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ref",
+    "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.sourcelink.json",
+    "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.pdb",
+    "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.GlobalUsings.g.cs",
+    "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.genruntimeconfig.cache",
+    "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig",
+    "PROGRAMMING_BASIS/00/cursus-programmeren-basis-v20240923/deel-gfx2-oplossingen/images/deel-gfx2-oplossing-03.png",
+    "PROGRAMMING_BASIS/00/cursus-programmeren-basis-v20240923/deel-18-oefeningen/images/d18-afspraak-overlap.jpg",
+    "PROGRAMMING_BASIS/00/cursus-programmeren-basis-v20240923/deel-15-oplossingen/images/Objectdiagram - Cirkel met een Middelpunt.jpg",
+    "PROGRAMMING_BASIS/00/cursus-programmeren-basis-v20240923/deel-15-oplossingen/images/Solution Explorer - Toont Figuren folder.png",
+    "PROGRAMMING_BASIS/00/cursus-programmeren-basis-v20240923/deel-15-oplossingen/images/Object diagram - Mieke verhuist.png",
+    "PROGRAMMING_BASIS/00/cursus-programmeren-basis-v20240923/deel-15-oplossingen/images/Object diagram - Jan en Mieke.jpg",
+    "PROGRAMMING_BASIS/00/cursus-programmeren-basis-v20240923/deel-15-oefeningen/images/Solution Explorer - Toont Figuren folder.png",
+    "PROGRAMMING_BASIS/00/cursus-programmeren-basis-v20240923/deel-15-oefeningen/images/Objectdiagram - Cirkel met een Middelpunt.jpg",
+    "PROGRAMMING_BASIS/00/cursus-programmeren-basis-v20240923/deel-15-oefeningen/images/Object diagram - Jan en Mieke.jpg",
+    "PROGRAMMING_BASIS/00/cursus-programmeren-basis-v20240923/deel-15-oefeningen/images/Object diagram - Mieke verhuist.png",
+    "PROGRAMMING_BASIS/WEEK 02/PB notes 04 labs.md",
+    "PROGRAMMING_BASIS/WEEK 02/PB notes 03 theory.md",
+    "PROGRAMMING_BASIS/WEEK 02/PB notes 03 theory 1.md",
+    "PROGRAMMING_BASIS/WEEK 01/PB1 notes 01 theory.md",
+    "PROGRAMMING_BASIS/WEEK 01/PB1 notes 01 labs.md",
+    "WEB/WEEK 01/WEB notes 01.md",
+    "DATABANKEN/WEEK 01/DB notes 01.md",
+    "PROGRAMMING BASIS/WEEK 02/PB notes 04 theory.md",
+    "PROGRAMMING BASIS/WEEK 02/PB notes 03 labs.md",
+    "PROGRAMMING BASIS/WEEK 02/PB notes 03 theory.md",
+    "PROGRAMMING BASIS/WEEK 02/PB notes 02 theory.md",
+    "PROGRAMMING BASIS/WEEK 02/PB notes 04 labs.md",
+    "PROGRAMMING BASIS/WEEK 02/PB notes 02 labs.md"
+  ]
+}
