@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0efa4f28abdc601e",
+        "id": "0924a615cea2d3d1",
         "type": "tabs",
         "children": [
           {
-            "id": "3a36587d76e29c65",
+            "id": "8904acadf345c6d6",
             "type": "leaf",
             "state": {
               "type": "html-view",
@@ -165,11 +165,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a36587d76e29c65",
+  "active": "8904acadf345c6d6",
   "lastOpenFiles": [
+    "WEB/WEEK 02/TESTS/oefeningLists.html",
+    "PROGRAMMING_BASIS/WEEK 02/PB notes 03 theory.md",
+    "PROGRAMMING_BASIS/WEEK 02/PB notes 03 theory 1.md",
+    "PROGRAMMING_BASIS/WEEK 02/PB notes 02 labs.md",
+    "WEB/WEEK 02/TESTS/Opdracht_1.html",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 02 theory.md",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 03 labs.md",
-    "PROGRAMMING_BASIS/WEEK 02/PB notes 02 labs.md",
     "README.md",
     "_PDF/PB notes 01 theory.pdf",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 04 theory.md",
@@ -182,8 +186,6 @@
     "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.sourcelink.json",
     "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.pdb",
     "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.GlobalUsings.g.cs",
-    "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.genruntimeconfig.cache",
-    "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig",
     "PROGRAMMING_BASIS/00/cursus-programmeren-basis-v20240923/deel-gfx2-oplossingen/images/deel-gfx2-oplossing-03.png",
     "PROGRAMMING_BASIS/00/cursus-programmeren-basis-v20240923/deel-18-oefeningen/images/d18-afspraak-overlap.jpg",
     "PROGRAMMING_BASIS/00/cursus-programmeren-basis-v20240923/deel-15-oplossingen/images/Objectdiagram - Cirkel met een Middelpunt.jpg",
@@ -195,8 +197,6 @@
     "PROGRAMMING_BASIS/00/cursus-programmeren-basis-v20240923/deel-15-oefeningen/images/Object diagram - Jan en Mieke.jpg",
     "PROGRAMMING_BASIS/00/cursus-programmeren-basis-v20240923/deel-15-oefeningen/images/Object diagram - Mieke verhuist.png",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 04 labs.md",
-    "PROGRAMMING_BASIS/WEEK 02/PB notes 03 theory.md",
-    "PROGRAMMING_BASIS/WEEK 02/PB notes 03 theory 1.md",
     "PROGRAMMING_BASIS/WEEK 01/PB1 notes 01 theory.md",
     "PROGRAMMING_BASIS/WEEK 01/PB1 notes 01 labs.md",
     "WEB/WEEK 01/WEB notes 01.md",
