@@ -1,6 +1,6 @@
 ## 1. Invoer meteen converteren
-To instantly convert the input of `Console.ReadLine()` or `Console.Read()` 
-=> put in into a `Parse()` method.
+To instantly convert the input of `{c#} Console.ReadLine()` or `{c#} Console.Read()` 
+=> put in into a `{c#} .Parse()` method.
 ex.:
 ```csharp
 Console.Write("Geef het aantal deelnemers : "); 
@@ -40,7 +40,12 @@ else {
 	<code_block_3>
 }
 ```
-`else`
+Deze controle structuren zijn linked.
+the program wil check conditions until there is a condition that results <c#>`{c#} true`
+
+If the first condition is false the statement will automatically check the next condition until there is an `{c#} else` statement or the chain ends.
+This new condition has to be in an `{c#} else if` statement or an `{c#} else` statement. 
+`{c#} `
 ## 4. Logische bewerkingen
 ## 5. Interval checking
 ## 6. Invoer robuust opvangen
