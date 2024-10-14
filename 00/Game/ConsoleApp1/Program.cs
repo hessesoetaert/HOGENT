@@ -43,6 +43,13 @@ namespace ConsoleApp1
 
 			ConsoleRectangle rect = new ConsoleRectangle(size, size/2, new Point(0, 0), ConsoleColor.White);
 			rect.Draw();
+			Console.WriteLine(size);
+			for (int i = 0; i<size;++i)
+			{
+				Console.Write();
+			}
+			
+			
 
 			ConsoleSpiner spin = new ConsoleSpiner();
 			Console.Write("Working....\n");
