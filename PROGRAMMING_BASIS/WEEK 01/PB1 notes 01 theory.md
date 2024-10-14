@@ -1,21 +1,21 @@
 ## **3 ENKELE TAALELEMENTEN**
-##### 3.1 Statements and terminators:
+#### 3.1 Statements and terminators:
 - instructies = statements
 - wordt afgesloten met een `;`
  - -> statement terminator
 
-##### 3.2 Literals
+#### 3.2 Literals
 - wordt letterlijk gelezen door compiler
 - onveranderd
 - `"Hello world!"` -> string literal
 
-##### 3.3 Commentaar
+#### 3.3 Commentaar
 - **verduidelijking** van code voor andere mensen of jezelf
 - wordt niet gecompiled
 - over meerdere regels -> start met `/*` en eindigt met `*/` 
 - over 1 regel -> `//` voor de regel
 
-##### 3.4 Variabelen:
+#### 3.4 Variabelen:
 tijdens uitvoer van program **informatie onthouden**
 bij aanmaak **reserveert** dit **geheugen**
 vb.:
@@ -37,7 +37,7 @@ variabele kan nooit echt leeg zijn
 	`Console.WriteLine("12")` -> print 12 als tekst
 	`Console.WriteLine(12)` -> print 12 als getal
 
-##### 3.5 String, int en double waardes:
+#### 3.5 String, int en double waardes:
 **string** = text
 **int** = gehele getallen/ integers
 **float**/**double** = kommagetallen
@@ -45,7 +45,7 @@ variabele kan nooit echt leeg zijn
 -> toont welke **soort** info de var. kan opslaan
 -> welke **acties** we met/op de var. kan toepassen
 
-##### 3.6 Static type checking
+#### 3.6 Static type checking
 **compilefouten** -> krijgen we als we handeling proberen die niet kunnen/ondersteund zijn.
 	vb.: string * int: `12 * "tekst"`
 **expressie** = stuk code dat de waarde uitdrukt
@@ -58,7 +58,7 @@ vb.:
 	 - uitlezen van een variable (vb.: `x`)
 	 - complexere vormen (vb.:`x * 2`) dat subexpressies combineert met operatoren
 
-##### 3.7 Berekeningen maken
+#### 3.7 Berekeningen maken
 - `+` = som
 - `-` = verschil
 - `*` = vermenigvuldigen

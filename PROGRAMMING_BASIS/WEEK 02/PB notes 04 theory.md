@@ -24,7 +24,23 @@ in Locals window you can find the variables on the stack to help debug (_**Debug
 extra information about the stack: 
 https://www.geeksforgeeks.org/c-sharp-stack-with-examples/
 
+**Breakpoint**: code halts when trying to execute a line of code where the breakpoint is located.
+=> in locals we can now see the variables and their values
+=> you can execute the code **step-by-step** and track the changes to values of vars
+
 ## 3. If ... else if ... else ...
+```csharp
+if (condition1) {
+	<code_block_1>
+} 
+else if (condition2){
+	<code_block_2>
+}
+else {
+	<code_block_3>
+}
+```
+`else`
 ## 4. Logische bewerkingen
 ## 5. Interval checking
 ## 6. Invoer robuust opvangen
