@@ -1,7 +1,8 @@
 [
-  "code-styler",
   "obsidian-html-plugin",
   "better-export-pdf",
   "obsidian-git",
-  "code-language-completer"
+  "code-language-completer",
+  "code-styler",
+  "editing-toolbar"
 ]
