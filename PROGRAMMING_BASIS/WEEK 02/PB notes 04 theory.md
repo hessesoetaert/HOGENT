@@ -11,9 +11,13 @@ Console.WriteLine($"De helft van dat aantal is: {helft}")
 ```
 
 ### 2. Debugging
-compile-errors:
-Runtime-errors (Exceptions):
-
+**compile errors:**
+=> compiler does not understand/ wants to hinder you from executing 
+**Runtime errors (Exceptions):**
+=> errors that happen while executing  = exceptional errors
+**Logic errors:** 
+=> no compiler or runtime error
+ex. wrong calculations
 
 ### 3. If ... else if ... else ...
 ### 4. Logische bewerkingen
