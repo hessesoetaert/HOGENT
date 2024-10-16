@@ -21,9 +21,9 @@
             "id": "68207e8b44cb9d25",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "DATABANKEN/00/db_foundations-model.png"
+                "file": "WEB/WEEK 02/Web1_les2.pdf"
               }
             }
           },
@@ -38,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB/WEEK 03/Web1_les3.pdf",
+                "file": "WEB/WEEK 02/Web1_les2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB/WEEK 03/Web1_les3.pdf",
+                "file": "WEB/WEEK 02/Web1_les2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB/WEEK 03/Web1_les3.pdf"
+                "file": "WEB/WEEK 02/Web1_les2.pdf"
               }
             }
           },
@@ -187,10 +187,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d96debea8d2eba1c",
+  "active": "68207e8b44cb9d25",
   "lastOpenFiles": [
-    "DATABANKEN/00/db_foundations-model.png",
     "WEB/WEEK 03/Web1_les3.pdf",
+    "WEB/WEEK 02/Web1_les2.pdf",
+    "DATABANKEN/00/db_foundations-model.png",
+    "WEB/WEEK 03/TESTS/Wijn.html",
     "DATABANKEN/WEEK 04/08-Funct-GroupBy-Having.pdf",
     "DATABANKEN/00/Wijn.html",
     "WEB/WEEK 03/AfbeeldingenOefeningenExperimenten/wijnfoto_875.jpg",
@@ -208,8 +210,6 @@
     "WEB/WEEK 03/basistekst_wijn.txt",
     "WEB/WEEK 03/AfbeeldingenOefeningenExperimenten.zip",
     "DATABANKEN/WEEK 04/DB notes 04.md",
-    "WEB/WEEK 02/Web1_les2.pdf",
-    "DATABANKEN/WEEK 04/07a-Workbench-gebruiken.pdf",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 02 theory.md",
     "README.md",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 03 theory.md",
