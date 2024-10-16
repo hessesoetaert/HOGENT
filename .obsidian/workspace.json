@@ -11,9 +11,11 @@
             "id": "8904acadf345c6d6",
             "type": "leaf",
             "state": {
-              "type": "html-view",
+              "type": "markdown",
               "state": {
-                "file": "WEB/WEEK 02/TESTS/Opdracht_1.html"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB/WEEK 02/TESTS/Opdracht_1.html",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB/WEEK 02/TESTS/Opdracht_1.html",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB/WEEK 02/TESTS/Opdracht_1.html"
+                "file": "README.md"
               }
             }
           },
@@ -165,13 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8904acadf345c6d6",
+  "active": "9a4a02177c6289ca",
   "lastOpenFiles": [
+    "WEB/WEEK 02/TESTS/Opdracht_1.html",
     "WEB/WEEK 02/TESTS/oefeningLists.html",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 03 theory.md",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 03 theory 1.md",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 02 labs.md",
-    "WEB/WEEK 02/TESTS/Opdracht_1.html",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 02 theory.md",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 03 labs.md",
     "README.md",
