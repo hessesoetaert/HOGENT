@@ -11,15 +11,36 @@
             "id": "8904acadf345c6d6",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "DATABANKEN/00/00-mysql-cheatsheet.pdf"
+              }
+            }
+          },
+          {
+            "id": "68207e8b44cb9d25",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "DATABANKEN/WEEK 04/DB notes 04.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d96debea8d2eba1c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "DATABANKEN/WEEK 04/07a-Workbench-gebruiken.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "DATABANKEN/WEEK 04/07a-Workbench-gebruiken.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "DATABANKEN/WEEK 04/07a-Workbench-gebruiken.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "DATABANKEN/WEEK 04/07a-Workbench-gebruiken.pdf"
               }
             }
           },
@@ -154,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,27 +189,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a4a02177c6289ca",
+  "active": "d96debea8d2eba1c",
   "lastOpenFiles": [
+    "PROGRAMMING_BASIS/WEEK 02/PB notes 02 theory.md",
+    "DATABANKEN/WEEK 04/DB notes 04.md",
+    "DATABANKEN/00/00-mysql-cheatsheet.pdf",
+    "DATABANKEN/WEEK 04/07a-Workbench-gebruiken.pdf",
+    "DATABANKEN/WEEK 04/08-Funct-GroupBy-Having.pdf",
+    "DATABANKEN/WEEK 04/07b-DBeaver-gebruiken.pdf",
+    "DATABANKEN/WEEK 04",
+    "README.md",
     "WEB/WEEK 02/TESTS/Opdracht_1.html",
     "WEB/WEEK 02/TESTS/oefeningLists.html",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 03 theory.md",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 03 theory 1.md",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 02 labs.md",
-    "PROGRAMMING_BASIS/WEEK 02/PB notes 02 theory.md",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 03 labs.md",
-    "README.md",
     "_PDF/PB notes 01 theory.pdf",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 04 theory.md",
     "SOFTWAREONTWERP/WEEK 02/SO notes 02.md",
     "WEB/WEEK 02/pb notes 02 web.md",
     "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/refint/ConsoleApp2.dll",
     "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ref/ConsoleApp2.dll",
-    "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/refint",
-    "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ref",
-    "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.sourcelink.json",
-    "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.pdb",
-    "PROGRAMMING_BASIS/00/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.GlobalUsings.g.cs",
     "PROGRAMMING_BASIS/00/cursus-programmeren-basis-v20240923/deel-gfx2-oplossingen/images/deel-gfx2-oplossing-03.png",
     "PROGRAMMING_BASIS/00/cursus-programmeren-basis-v20240923/deel-18-oefeningen/images/d18-afspraak-overlap.jpg",
     "PROGRAMMING_BASIS/00/cursus-programmeren-basis-v20240923/deel-15-oplossingen/images/Objectdiagram - Cirkel met een Middelpunt.jpg",
