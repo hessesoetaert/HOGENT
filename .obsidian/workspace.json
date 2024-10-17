@@ -4,41 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0924a615cea2d3d1",
+        "id": "b8d1074fe9fccd84",
         "type": "tabs",
         "children": [
           {
-            "id": "8904acadf345c6d6",
+            "id": "e38ef26da36690f6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "DATABANKEN/00/00-mysql-cheatsheet.pdf"
-              }
-            }
-          },
-          {
-            "id": "68207e8b44cb9d25",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "WEB/WEEK 02/Web1_les2.pdf"
-              }
-            }
-          },
-          {
-            "id": "d96debea8d2eba1c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "WEB/WEEK 03/Web1_les3.pdf"
-              }
+                "file": "WEB/WEEK 04/WEB notes 04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WEB notes 04"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -73,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -81,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB/WEEK 02/Web1_les2.pdf",
+                "file": "WEB/WEEK 04/WEB notes 04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for WEB notes 04"
             }
           },
           {
@@ -121,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB/WEEK 02/Web1_les2.pdf",
+                "file": "WEB/WEEK 04/WEB notes 04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from WEB notes 04"
             }
           },
           {
@@ -135,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -147,7 +142,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -156,8 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB/WEEK 02/Web1_les2.pdf"
-              }
+                "file": "WEB/WEEK 04/WEB notes 04.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of WEB notes 04"
             }
           },
           {
@@ -165,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -173,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,11 +185,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "68207e8b44cb9d25",
+  "active": "e38ef26da36690f6",
   "lastOpenFiles": [
+    "WEB/WEEK 04/test.html",
+    "WEB/WEEK 04/WEB notes 04.md",
+    "Untitled.md",
+    "DATABANKEN/00/00-mysql-cheatsheet.pdf",
+    "WEB/WEEK 04",
+    "WEB/WEEK 02/Web1_les2.pdf",
     "WEB/WEEK 03/TESTS/Resources/wijnfoto_7000.jpg",
     "WEB/WEEK 03/TESTS/Resources/wijnfoto_3500.jpg",
     "WEB/WEEK 03/TESTS/Resources/wijnfoto_1750.jpg",
@@ -196,7 +205,6 @@
     "WEB/WEEK 03/TESTS/Resources",
     "WEB/WEEK 03/TESTS/New folder",
     "WEB/WEEK 03/Web1_les3.pdf",
-    "WEB/WEEK 02/Web1_les2.pdf",
     "DATABANKEN/00/db_foundations-model.png",
     "WEB/WEEK 03/TESTS/Wijn.html",
     "DATABANKEN/WEEK 04/08-Funct-GroupBy-Having.pdf",
@@ -205,10 +213,6 @@
     "WEB/WEEK 03/AfbeeldingenOefeningenExperimenten/wijnfoto_7000.jpg",
     "WEB/WEEK 03/AfbeeldingenOefeningenExperimenten/wijnfoto_438.jpg",
     "WEB/WEEK 03/AfbeeldingenOefeningenExperimenten/wijnfoto_3500.jpg",
-    "WEB/WEEK 03/AfbeeldingenOefeningenExperimenten/wijnfoto_1750.jpg",
-    "WEB/WEEK 03/AfbeeldingenOefeningenExperimenten",
-    "WEB/WEEK 03/TESTS",
-    "WEB/WEEK 03/New folder",
     "DATABANKEN/WEEK 04/DB notes 04.md",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 02 theory.md",
     "README.md",
