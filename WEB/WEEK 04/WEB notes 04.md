@@ -10,5 +10,3 @@ telefoon
 email
 checkbox
 => allemaal in `{html} <input>`
-
-
