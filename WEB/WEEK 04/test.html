@@ -5,17 +5,52 @@
     <title>title</title>
 </head>
 <body>
-    <form action="/action_page.php">
-        <input type="time" id="html" name="fav_language" value="HTML">
-        <label for="html">HTML</label><br>
+    <form action="/action_page.php" style="display: inline-block; width 150px;">
+        <label for="voornaam">Voornaam</label>
+        <input type="text" id="voornaam" name="voornaam" value="Koen"><br>
 
-        <input type="radio" id="css" name="not" value="CSS">
-        <label for="css">CSS</label><br>
+        <label for="naam">Naam</label>
+        <input type="text" id="naam" name="naam" value="verhoeyen"><br>
 
-        <input type="radio" id="javascript" name="fav_language" value="JavaScript">
-        <label for="javascript">JavaScript</label><br><br>
+        <label for="straat">Straat</label>
+        <input type="text" id="straat" name="straat" value="henleykaai"><br>
+        
+        <label for="huisnummer">Huisnummer</label>
+        <input type="text" id="huisnummer" name="huisnummer" value="84"><br>
+        
+        <label for="postcode">Postcode</label>
+        <input type="text" id="postcode" name="postcode" value="9000"><br>
+        
+        <label for="gemeente">Gemeente</label>
+        <input type="text" id="gemeente" name="gemeente" value="Gent"><br>
 
-        <input type="submit" value="Submit">
+        <label for="email"> Email </label>
+        <input type="email" id="email" name="email"> <br>
+
+        <label for="color"> Favoriete kleur </label>
+        <input type="color" id="color" name="color"> <br>
+
+        <label for="website"> Favoriete website </label>
+        <input type="url" id="website" name="website"> <br>
+
+        <label for="groente"> Favoriete groente </label>
+        <select name="groente" id="groente">
+            <option value="wortel">wortel</option>
+            <option value="tomaat">tomaat</option>
+            <option value="sla">sla</option>
+            <option value="komkommer">komkommer</option>
+          </select> <br>
+
+        <label for="geboortedatum"> Geboortedatum </label>
+        <input type="date" id="geboortedatum" name="geboortedatum"> <br>
+
+        <input type="radio" id="gender" name="man" value="man">
+        <label for="man">man</label>
+        <input type="radio" id="gender" name="vrouw" value="vrouw">
+        <label for="css">vrouw</label><br>
+
+        <input type="submit" id="submit" name="submit">
+        <input type="reset" id="reset" name="reset" alt="Resetten"> <br>
       </form>
       
 </body>
