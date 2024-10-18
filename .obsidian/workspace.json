@@ -11,14 +11,12 @@
             "id": "e38ef26da36690f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "WEB/duckett.pdf"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "duckett"
             }
           }
         ]
@@ -191,6 +189,7 @@
   },
   "active": "e38ef26da36690f6",
   "lastOpenFiles": [
+    "README.md",
     "WEB/Handboek_HTML5_CSS3_editie3_voorbeeldcode.zip",
     "WEB/duckett.pdf",
     "WEB/duckett.pdf.opdownload",
@@ -201,7 +200,6 @@
     "00/ConsoleGame/Game/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json",
     "00/ConsoleGame/Game/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache",
     "00/ConsoleGame/Game/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb",
-    "00/ConsoleGame/Game/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GlobalUsings.g.cs",
     "DIGITALE WERKOMGEVING/WEEK 04/DW notes 04.md",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 03 theory 1.md",
     "WEB/WEEK 04/WEB notes 04.md",
@@ -218,7 +216,6 @@
     "WEB/WEEK 03/AfbeeldingenOefeningenExperimenten/wijnfoto_3500.jpg",
     "DATABANKEN/WEEK 04/DB notes 04.md",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 02 theory.md",
-    "README.md",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 03 theory.md",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 02 labs.md",
     "PROGRAMMING_BASIS/WEEK 02/PB notes 03 labs.md",
