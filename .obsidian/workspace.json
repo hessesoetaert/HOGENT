@@ -11,12 +11,14 @@
             "id": "e38ef26da36690f6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "WEB/duckett.pdf"
+                "file": "SOFTWAREONTWERP/WEEK 01/SO notes 01.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "duckett"
+              "icon": "lucide-file",
+              "title": "SO notes 01"
             }
           }
         ]
@@ -91,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB/WEEK 04/WEB notes 04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WEB notes 04"
+              "title": "Backlinks"
             }
           },
           {
@@ -172,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,9 +189,9 @@
   },
   "active": "e38ef26da36690f6",
   "lastOpenFiles": [
+    "WEB/duckett.pdf",
     "README.md",
     "WEB/Handboek_HTML5_CSS3_editie3_voorbeeldcode.zip",
-    "WEB/duckett.pdf",
     "WEB/duckett.pdf.opdownload",
     "00/ConsoleGame/Game/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll",
     "00/ConsoleGame/Game/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll",
